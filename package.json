@@ -1,0 +1,28 @@
+{
+  "name": "be-the-hero-backend",
+  "version": "1.0.0",
+  "description": "Projeto de Conhecimento - Semana Omnistack",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lo0seramon/be-the-hero-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lo0seramon/be-the-hero-backend/issues"
+  },
+  "homepage": "https://github.com/lo0seramon/be-the-hero-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.20.13",
+    "sqlite3": "^4.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
